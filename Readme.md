@@ -1,0 +1,1 @@
+On this repo, you cand find some of the projects i work on during the master's degree on mathematics, computer vision and machine learning (MVA)
