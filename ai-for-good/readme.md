@@ -14,4 +14,3 @@ We trained a mathematics exercices classifier using a roberta-base language mode
 
 
 ![energy conso of finetunings against accuracy](images/energy%20conso%20of%20finetunings%20against%20accuracy.png)
-
